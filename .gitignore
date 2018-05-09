@@ -1,0 +1,15 @@
+# Config Files
+# ##################
+conf/config.py
+conf/datasets.py
+
+# Logs 
+######################
+*.log
+
+# Screenshots
+######################
+store/*
+
+
+
